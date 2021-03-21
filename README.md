@@ -12,6 +12,5 @@ _I am an undergraduate student currently studying Bachelor of Information Techno
 
 ```
 Strength comes from doing things you thought you couldn’t💻
-
 ```
 Made with ❤️
