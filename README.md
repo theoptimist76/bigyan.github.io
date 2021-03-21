@@ -6,7 +6,7 @@ _I am an undergraduate student currently studying Bachelor of Information Techno
 
 **A simple person interested in IT and Technology, as well as in CyberSecurity Field.**
 
-[Facebook](https://www.facebook.com/rijalbigyan76/) and ![Image](https://www.facebook.com/photo?fbid=2844718149116303&set=a.1383660258555440)
+[Facebook](https://www.facebook.com/rijalbigyan76/) and ![Image](https://avatars.githubusercontent.com/u/49486923?s=460&u=0fc0720158906452e0a4f8d3925dd069bf9994e1&v=4)
 
 ```
 Strength comes from doing things you thought you couldn’t💻
