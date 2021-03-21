@@ -1,5 +1,5 @@
 
-## `Hello!!` It's me  # Bigyan Rijal
+## `Hello!!` It's me ## # Bigyan Rijal #
 
 _I am an undergraduate student currently studying Bachelor of Information Technology at Cosmos College of Management and Technology._
 
