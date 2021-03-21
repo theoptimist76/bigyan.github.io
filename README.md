@@ -1,7 +1,7 @@
 ## Welcome to Bigyan's Portfolio
-```
+
 # `Hello!!` It' me  Bigyan Rijal
-```
+
 _I am an undergraduate student currently studying Bachelor of Information Technology at Cosmos College of Management and Technology._
 
 **A simple person interested in IT and Technology, as well as in CyberSecurity Field.**
