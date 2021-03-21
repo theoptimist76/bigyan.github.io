@@ -10,6 +10,6 @@ _I am an undergraduate student currently studying Bachelor of Information Techno
 
 ```
 Strength comes from doing things you thought you couldn’t💻
-❤️
+
 ```
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Made with ❤️
