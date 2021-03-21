@@ -6,7 +6,7 @@ _I am an undergraduate student currently studying Bachelor of Information Techno
 
 **A simple person interested in IT and Technology, as well as in CyberSecurity Field.**
 
-[Link](url) and ![Image](src)
+[Link](www.facebook.com/bigyan76) and ![Image](https://www.facebook.com/photo?fbid=2844718149116303&set=a.1383660258555440)
 
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/theoptimist76/bigyan.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
