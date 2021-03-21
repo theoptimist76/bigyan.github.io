@@ -1,4 +1,3 @@
-## Welcome to Bigyan's Portfolio
 
 # `Hello!!` It' me  Bigyan Rijal
 
